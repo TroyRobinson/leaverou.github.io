@@ -7,6 +7,35 @@
 					"type": "Talk"
 				}
 			],
+			"date": "2018-05-09",
+			"country": "af"
+		},
+		{
+			"talk": [
+				{
+					"title": "The Talk",
+					"type": "Talk"
+				}
+			],
+			"name": "05/28",
+			"country": "af"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"country": "af"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"url": "https://smashingconf.com/toronto-2018/",
 			"name": "SmashingConf Toronto",
 			"date": "2018-06-26",
