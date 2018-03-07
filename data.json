@@ -3,34 +3,18 @@
 		{
 			"talk": [
 				{
-					"title": "TBD",
+					"title": "The",
 					"type": "Talk"
 				}
 			],
-			"date": "2018-05-09",
-			"country": "af"
-		},
-		{
-			"talk": [
-				{
-					"title": "The Talk",
-					"type": "Talk"
-				}
-			],
-			"name": "05/28",
-			"country": "af"
+			"country": "code"
 		},
 		{
 			"talk": [
 				{
 					"title": "TBD",
 					"type": "Talk"
-				}
-			],
-			"country": "af"
-		},
-		{
-			"talk": [
+				},
 				{
 					"title": "TBD",
 					"type": "Talk"
